@@ -14,12 +14,10 @@ Data Analysis | Data Visualization | Project management
 
 
 ## About ME💫
-🔭 I’m currently working on:         <br>
-🌱 I’m currently learning:           <br>
-👯 I’m looking to collaborate on:    <br>
-🤔 I’m looking for help with:        <br>
-💬 Ask me about:                     <br>     
-📫 How to reach me:                  <br>
-😄 Pronouns:                         <br>
-⚡ Fun fact:                         <br>
+🔭 I’m currently working on: Data Analyst projects         <br>
+🌱 I’m currently learning: Python                          <br>
+👯 I’m looking to collaborate on: Data Analytics Project   <br>
+📫 How to reach me: anshul_014(instagram,Twitter)          <br>
+😄 Pronouns: He/Him                                        <br>
+
 
