@@ -1,18 +1,25 @@
-## Hi there 👋, Welcome
+## Hi there 👋🏻, Welcome!
+![Black Minimal Motivation Quote LinkedIn Banner](https://github.com/anshul014/anshul014/assets/105308981/c4b5da00-cc20-4379-9abb-b7fd1b400712)
+Hello!👋🏻 My name is <b>Anshul Singh Rathore.</b> I am from Chandigarh University taking BBA (Hons) in Business Analytics🏫
 
-<!--
-**anshul014/anshul014** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I have a huge interest in AI & ML🤖 as well as python programming🧑🏻‍💻! currently studying Python, Excel, power BI, Tableau, MySql
 
-Here are some ideas to get you started:
+I love to join different community and competition that involves creating something for the society!🙋🏻
 
-##🔭 I’m currently working on: 
-      ##Data Analyst
-      
- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### <b>Skills:</b>
+Data Analysis | Data Visualization | Project management 
+
+### <b>Tools:</b>
+
+
+
+## About ME💫
+🔭 I’m currently working on:         <br>
+🌱 I’m currently learning:           <br>
+👯 I’m looking to collaborate on:    <br>
+🤔 I’m looking for help with:        <br>
+💬 Ask me about:                     <br>     
+📫 How to reach me:                  <br>
+😄 Pronouns:                         <br>
+⚡ Fun fact:                         <br>
+
