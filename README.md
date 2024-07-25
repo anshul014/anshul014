@@ -19,9 +19,9 @@ Data Analysis | Data Visualization | Project management
 
 
 ## About ME💫
-🔭 I’m currently working on: Data Analyst projects         <br>
+🔭 I’m currently working on: Business Analyst projects         <br>
 🌱 I’m currently learning: Python                          <br>
-👯 I’m looking to collaborate on: Data Analytics Project   <br>
+👯 I’m looking to collaborate on: Business Analytics Project   <br>
 📫 How to reach me: anshul_014(instagram,Twitter)          <br>
 😄 Pronouns: He/Him                                        <br>
 
