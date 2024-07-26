@@ -1,6 +1,6 @@
 ## Hi there 👋🏻, Welcome!
 ![Black Minimal Motivation Quote LinkedIn Banner](https://github.com/anshul014/anshul014/assets/105308981/c4b5da00-cc20-4379-9abb-b7fd1b400712)
-Hello!👋🏻 My name is <b>Anshul Singh Rathore.</b> I am from Chandigarh University taking BBA (Hons) in Business Analytics🏫
+Hello!👋🏻 My name is <b>Anshul Singh Rathore.</b> I am from Chandigarh University Persuing BBA (Hons) in Business Analytics🏫
 
 I have a huge interest in AI & ML🤖 as well as python programming🧑🏻‍💻! currently studying Python, Excel, power BI, Tableau, MySql
 
